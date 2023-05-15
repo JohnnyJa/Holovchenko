@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewLab4", "NewLab4\NewLab4.csproj", "{0FE6F3B7-9FFA-4F96-A0FE-35F644CD7835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntAlgo", "AntAlgo\AntAlgo.csproj", "{C39D9F72-3DC7-4F86-A55F-F80230FD8388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE6F3B7-9FFA-4F96-A0FE-35F644CD7835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE6F3B7-9FFA-4F96-A0FE-35F644CD7835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE6F3B7-9FFA-4F96-A0FE-35F644CD7835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE6F3B7-9FFA-4F96-A0FE-35F644CD7835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C39D9F72-3DC7-4F86-A55F-F80230FD8388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39D9F72-3DC7-4F86-A55F-F80230FD8388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39D9F72-3DC7-4F86-A55F-F80230FD8388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39D9F72-3DC7-4F86-A55F-F80230FD8388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

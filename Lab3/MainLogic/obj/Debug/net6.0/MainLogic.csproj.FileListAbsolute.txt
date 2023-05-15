@@ -1,0 +1,15 @@
+C:\Worr\KPI\Algo\Lab3\MainLogic\bin\Debug\net6.0\MainLogic.deps.json
+C:\Worr\KPI\Algo\Lab3\MainLogic\bin\Debug\net6.0\MainLogic.dll
+C:\Worr\KPI\Algo\Lab3\MainLogic\bin\Debug\net6.0\MainLogic.pdb
+C:\Worr\KPI\Algo\Lab3\MainLogic\bin\Debug\net6.0\Entities.dll
+C:\Worr\KPI\Algo\Lab3\MainLogic\bin\Debug\net6.0\Entities.pdb
+C:\Worr\KPI\Algo\Lab3\MainLogic\obj\Debug\net6.0\MainLogic.csproj.AssemblyReference.cache
+C:\Worr\KPI\Algo\Lab3\MainLogic\obj\Debug\net6.0\MainLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Worr\KPI\Algo\Lab3\MainLogic\obj\Debug\net6.0\MainLogic.AssemblyInfoInputs.cache
+C:\Worr\KPI\Algo\Lab3\MainLogic\obj\Debug\net6.0\MainLogic.AssemblyInfo.cs
+C:\Worr\KPI\Algo\Lab3\MainLogic\obj\Debug\net6.0\MainLogic.csproj.CoreCompileInputs.cache
+C:\Worr\KPI\Algo\Lab3\MainLogic\obj\Debug\net6.0\MainLogic.csproj.CopyComplete
+C:\Worr\KPI\Algo\Lab3\MainLogic\obj\Debug\net6.0\MainLogic.dll
+C:\Worr\KPI\Algo\Lab3\MainLogic\obj\Debug\net6.0\refint\MainLogic.dll
+C:\Worr\KPI\Algo\Lab3\MainLogic\obj\Debug\net6.0\MainLogic.pdb
+C:\Worr\KPI\Algo\Lab3\MainLogic\obj\Debug\net6.0\ref\MainLogic.dll

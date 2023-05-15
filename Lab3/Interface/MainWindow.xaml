@@ -1,0 +1,50 @@
+﻿<Window x:Class="Interface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Interface"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" Grid.Row="0" Orientation="Vertical" Margin="5px">
+            <TextBox x:Name="KeyToAddTextBox" Margin="5px"></TextBox>
+            <TextBox x:Name="DataToAddTextBox" Margin="5px"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="0" Margin="5px">
+            <TextBox x:Name="KeyToFindTextBox" Margin="5px"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Column="2" Grid.Row="0" Margin="5px">
+            <TextBox x:Name="KeyToRemoveTextBox" Margin="5px"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Column="0" Grid.Row="1" Margin="5px" VerticalAlignment="Center">
+            <Button x:Name="AddButton" Click="AddButton_Click" Content="Add" Width="150" Height="30" Margin="5px"></Button>
+            <Button x:Name="UpdateButton" Click="UpdateButton_OnClick" Content="Update" Width="150" Height="30" Margin="5px"></Button>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1" Margin="5px" VerticalAlignment="Center">
+            <Button x:Name="FindButton" Click="FindButton_Click" Content="Find" Width="150" Height="30"></Button>
+        </StackPanel>
+        <StackPanel Grid.Column="2" Grid.Row="1" Margin="5px" VerticalAlignment="Center">
+            <Button x:Name="RemoveButton" Click="RemoveButton_OnClick" Content="Remove" Width="150" Height="30"></Button>
+        </StackPanel>
+        <StackPanel Grid.Column="0" Grid.Row="2" Margin="5px" VerticalAlignment="Center">
+            <TextBlock></TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="2" Margin="5px" VerticalAlignment="Center">
+            <TextBlock></TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Column="2" Grid.Row="2" Margin="5px" VerticalAlignment="Center">
+            <TextBlock></TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

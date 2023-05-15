@@ -1,0 +1,12 @@
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\bin\Debug\net6.0\AntAlgo.deps.json
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\bin\Debug\net6.0\AntAlgo.dll
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\bin\Debug\net6.0\AntAlgo.pdb
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\obj\Debug\net6.0\AntAlgo.csproj.AssemblyReference.cache
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\obj\Debug\net6.0\AntAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\obj\Debug\net6.0\AntAlgo.AssemblyInfoInputs.cache
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\obj\Debug\net6.0\AntAlgo.AssemblyInfo.cs
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\obj\Debug\net6.0\AntAlgo.csproj.CoreCompileInputs.cache
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\obj\Debug\net6.0\AntAlgo.dll
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\obj\Debug\net6.0\refint\AntAlgo.dll
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\obj\Debug\net6.0\AntAlgo.pdb
+C:\Worr\KPI\Algo\NewLab4\AntAlgo\obj\Debug\net6.0\ref\AntAlgo.dll
